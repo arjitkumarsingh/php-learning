@@ -1,0 +1,1 @@
+exercise-23: how to trim multiple special characters;

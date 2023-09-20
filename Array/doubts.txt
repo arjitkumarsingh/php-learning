@@ -1,0 +1,17 @@
+exercise-10: what is bead sort?
+
+exercise-20: sorting algorithm(How many times a callback function is called and with what values?)
+
+exercise-21: sorting algorithm(How many times a callback function is called and with what values?)
+
+exercise-25: not getting the question.
+
+exercise-29: array is not merging.
+
+exercise-42: Different question, Different solution. Also recursion is used.
+
+exercise-45: How many times a callback function is called and with what values? -> pending
+
+exercise-57: How to get the difference array if we dont know the key?
+
+exercise-58: Not getting the approach.
